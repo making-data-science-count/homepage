@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Making Data Science Count</title>
+    <title>Authors | The Making Data Science Count Research Group</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena. In addition to how learners think of and with data, Dr. Rosenberg is also interested in student engagement across a range of STEM learning environments and the use of technology in education, particularly for teacher professional development. As a part of this work, Dr. Rosenberg makes use of quantitative methods, such as multi-level models for analyzing data collected through the experience sampling method, and newer approaches, such as social network analysis to analyze teachers’ conversations on social media. Dr. Rosenberg’s research has been published in journals such as the Journal of Research on Science Teaching, the Journal of Youth and Adolescence and the Journal of Technology and Teacher Education.&lt;/p&gt;
 </description>

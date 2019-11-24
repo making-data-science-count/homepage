@@ -1,93 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Making Data Science Count</title>
+    <title>The Making Data Science Count Research Group</title>
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Making Data Science Count</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <description>The Making Data Science Count Research Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Making Data Science Count</title>
+      <title>The Making Data Science Count Research Group</title>
       <link>/authors/admin/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
@@ -337,36 +260,6 @@ rm Untitled.md
 &lt;/div&gt;
 
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena. In addition to how learners think of and with data, Dr. Rosenberg is also interested in student engagement across a range of STEM learning environments and the use of technology in education, particularly for teacher professional development. As a part of this work, Dr. Rosenberg makes use of quantitative methods, such as multi-level models for analyzing data collected through the experience sampling method, and newer approaches, such as social network analysis to analyze teachers’ conversations on social media. Dr. Rosenberg’s research has been published in journals such as the Journal of Research on Science Teaching, the Journal of Youth and Adolescence and the Journal of Technology and Teacher Education.&lt;/p&gt;
 </description>
     </item>
     
