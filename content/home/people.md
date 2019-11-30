@@ -20,4 +20,4 @@ show_social = false
 show_interests = true
 +++
 
-If you are a student (or prospective student) interested in joining the Making Data Science Count research group, then please send a message to Joshua Rosenberg at jmrosenberg [at] UTK [dot] edu for more information.
+If you are a student (or a prospective student) interested in joining the Making Data Science Count research group, then please send a message to (Joshua Rosenberg)[mailto:jmrosenberg@utk.edu].
