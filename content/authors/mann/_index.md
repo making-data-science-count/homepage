@@ -4,7 +4,6 @@ authors:
 name: Michael Mann
 bio: Postdoctoral Scholar, Computer Science Education
 email: "mmann14@vols.utk.edu"
-interests:
 organizations:
 - name: University of Tennessee, Knoxville
   url: ""
