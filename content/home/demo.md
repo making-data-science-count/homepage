@@ -48,7 +48,7 @@ subtitle = ""
 +++
 
 <img src="/img/mdsc-logo.png", style = "height: 75%; width: 75%; margin-left: auto;
-    margin-right: auto;;"/>
+    margin-right: auto;"/>
 
-*Making Data Science Count* is an educational research group at the [University of Tennessee, Knoxville](http://utk.edu/)
+<p style="text-align: center;"><em>Making Data Science Count</em> is an educational research group at the University of Tennessee, Knoxville</p>
 
