@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="/img/mdsc-logo.png"/>
+<img src="/img/mdsc-logo.png", style = "height: 50%; width: 50%;"/>
 
 Welcome to Making Data Science Count, a research group at the [University of Tennessee, Knoxville](http://utk.edu/)
 
