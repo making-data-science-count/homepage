@@ -1,13 +1,18 @@
 ---
-authors: 
+authors:
 - aschmidt
 name: Anthony Schmidt
-bio: "Anthony Schmidt is a PhD student in evaluation, statistics, and measurement (ESM), part of the Educational Psychology and Counseling Department."
+bio: "PhD student in evaluation, statistics, and measurement (ESM), part of the Educational Psychology and Counseling Department."
 email: "aschmi11@vols.utk.edu"
+interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: "Ph.D. Student, Evaluation, Statistics, and Measurement Ph.D. program"
-superuser: false
+role: 'Ph.D. Student, Evaluation, Statistics, and Measurement Ph.D. program'
+social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/acircleda
+superuser: true
 user_groups:
 - 'Research Group Members'
 ---
