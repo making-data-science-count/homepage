@@ -1,6 +1,7 @@
 ---
 authors:
 - admin
+name: Joshua M. Rosenberg
 bio: I am an Assistant Professor of STEM Education at the University of Tennessee, Knoxville.
 education:
   courses:
@@ -18,14 +19,8 @@ education:
     year: 2010
 email: "jmrosenberg@utk.edu"
 interests:
-- Science education
-- Data science education
-- Quantitative and computational research methods
-- Educational technology
-- Computer science education
-name: Joshua M. Rosenberg
 organizations:
-- name: University of Tennesee, Knoxville
+- name: University of Tennessee, Knoxville
   url: ""
 role: Assistant Professor, STEM Education
 social:
@@ -43,8 +38,5 @@ social:
   link: https://github.com/jrosen48
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- 'Research Group Members'
 ---
-
-Joshua M. Rosenberg (PhD, Michigan State University) is an Assistant Professor of STEM Education at the University of Tennessee, Knoxville. His research focuses on how learners think of and with data, particularly in science education settings. Dr. Rosenberg tries to understand how practices such as creating, representing, and modeling data create new opportunities for learning how to use data to pose and answer questions about scientific phenomena. In addition to how learners think of and with data, Dr. Rosenberg is also interested in student engagement across a range of STEM learning environments and the use of technology in education, particularly for teacher professional development. As a part of this work, Dr. Rosenberg makes use of quantitative methods, such as multi-level models for analyzing data collected through the experience sampling method, and newer approaches, such as social network analysis to analyze teachers’ conversations on social media. Dr. Rosenberg’s research has been published in journals such as the Journal of Research on Science Teaching, the Journal of Youth and Adolescence and the Journal of Technology and Teacher Education.

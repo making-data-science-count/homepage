@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Education | Making Data Science Count</title>
+    <link>/tags/data-science-education/</link>
+      <atom:link href="/tags/data-science-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science Education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Data Science Education</title>
+      <link>/tags/data-science-education/</link>
+    </image>
+    
+    <item>
+      <title>#tidytuesday Analysis</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;An ongoing project is an analysis of [#tidytuesday[(&lt;a href=&#34;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&#34; target=&#34;_blank&#34;&gt;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;A repository with material for this project is here: &lt;a href=&#34;https://github.com/acircleda/TidyTuesday-Analysis&#34; target=&#34;_blank&#34;&gt;https://github.com/acircleda/TidyTuesday-Analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

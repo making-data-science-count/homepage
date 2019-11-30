@@ -1,11 +1,8 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+external_link: https://picsul.utk.edu
+summary: Understanding the development of interest in computer science
 tags:
-- Demo
-title: External Project
+- 'Computer Science Education'
+title: PICSUL
 ---

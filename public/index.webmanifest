@@ -1,9 +1,9 @@
 {
-  "name": "The Making Data Science Count Research Group",
-  "short_name": "The Making Data Science Count Research Group",
+  "name": "Making Data Science Count",
+  "short_name": "Making Data Science Count",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
