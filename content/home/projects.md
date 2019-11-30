@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Data Science Education"
     tag = "Data Science Education"
+    
+  [[content.filter_button]]
+    name = "Science Education"
+    tag = "Science Education"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
