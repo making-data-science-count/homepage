@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- alishinski
 name: Alex Lishinski
 bio: Postdoctoral Scholar, Computer Science Education
 email: "alishins@utk.edu"

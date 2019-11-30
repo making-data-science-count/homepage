@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- mmann
 name: Michael Mann
 email: "mmann14@vols.utk.edu"
 organizations:

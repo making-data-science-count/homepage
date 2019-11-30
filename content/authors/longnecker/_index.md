@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- jlongnecker
 name: Jennifer Longnecker
 email: "jlongne1@vols.utk.edu"
 organizations:

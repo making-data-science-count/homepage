@@ -1,6 +1,6 @@
 ---
 authors: 
-- admin
+- osultana
 name: Omiya Sultana
 bio: Ph.D. Student, Theory and Practice in Teacher Education
 organizations:
