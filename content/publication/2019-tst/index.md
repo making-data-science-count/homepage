@@ -15,10 +15,6 @@ authors:
 date: "2019-12-01T00:00:00Z"
 doi: ""
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 projects: []
 publication: '*The Science Teacher* (12)'
 publication_short: ""
