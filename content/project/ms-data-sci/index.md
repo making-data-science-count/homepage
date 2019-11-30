@@ -1,6 +1,6 @@
 ---
 date: "2019-04-27T00:00:00Z"
-summary: 'Data Science in Middle School Ssience Classrooms'
+summary: 'Data science in middle school science classrooms'
 tags:
 - Science Education
 - Data Science Education
