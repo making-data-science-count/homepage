@@ -23,7 +23,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-11-01T00:00:00Z"
-summary: 'A paper introducing the topic of data science in education'
+summary: 'A paper introducing the topic of data science in education.'
 tags:
 - Data Science Education
 title: 'Making data science “count”: Data science and learning, design, and technology research'
