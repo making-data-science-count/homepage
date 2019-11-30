@@ -1,12 +1,10 @@
 ---
 authors:
-- admin
+- user
 name: Jennifer Longnecker
-bio: ""
 email: jlongne1@vols.utk.edu"
 organizations:
 - name: University of Tennessee, Knoxville
-  url: ""
 role: "Ph.D. Student, Theory and Practice in Teacher Education"
 superuser: false
 user_groups:
