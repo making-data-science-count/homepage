@@ -21,14 +21,17 @@
     </item>
     
     <item>
-      <title>Using R with 7th-grade science students</title>
+      <title>Profiles of science engagement</title>
       <link>/project/ms-data-sci/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/ms-data-sci/</guid>
-      <description>&lt;p&gt;This projects involves a collaboration with Mr. Alex Edwards at Tate&amp;rsquo;s School
-and Bodong Chen at the University of Minnesota.&lt;/p&gt;
+      <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Profiles of Science Engagement: Broadening Participation by Understanding Individual and Contextual Influences&lt;/a&gt;&amp;rdquo; is an NSF-funded project&lt;/p&gt;
 
-&lt;p&gt;A blog post detailing some recent work is available here: &lt;a href=&#34;https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/&#34; target=&#34;_blank&#34;&gt;https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This project will use a person-oriented analytic approach to examine individual differences and contextual variation in students&amp;rsquo; engagement in different science learning environments, and to link engagement patterns to students&amp;rsquo; achievement and persistence in STEM fields. Rich multi-method data sets will be used to develop profiles of student engagement involving adolescents&amp;rsquo; cognitive, affective, and behavioral states during the science learning process. These data will be instrumental in focusing, guiding, and communicating research efforts to practice. In addition to the knowledge generated and disseminated through traditional academic outlets, the project will develop two tangible products. The first product will be a free and publicly available statistical software library, or package, of tools and functions needed to conduct person-oriented analysis in R, the open-source programming language and software. These tools will be available for researchers, scholars, and developers. The second product will be a user-friendly guide that will inform science educators about engagement profiles and practices that engage students, including those from underrepresented groups in science, in the most meaningful ways. The guide to student engagement will help educators identify and respond to student engagement around science content, and to design lesson plans that may support greater engagement. The guide will be used for purposes of professional development and teacher preparation, impacting STEM scholars and educators, and training graduate students and post-doctoral fellow as they take part in research activities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rosenberg led to development of the &lt;a href=&#34;https://github.com/data-edu/tidyLPA&#34; target=&#34;_blank&#34;&gt;tidyLPA software&lt;/a&gt; used for this project and is a consultant for this project.&lt;/p&gt;
 </description>
     </item>
     

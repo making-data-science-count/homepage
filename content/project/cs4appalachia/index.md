@@ -1,6 +1,6 @@
 ---
 date: "2019-04-27T00:00:00Z"
-summary: 'CS for Appalachia: A Research-Practice Partnership for Integrating Computer Science into East Tennessee Schools '
+summary: 'A Research-Practice Partnership (RPP) for integrating computer science into East Tennessee schools '
 tags:
 - Computer Science Education
 title: 'CS for Appalachia'

@@ -14,6 +14,15 @@
     
     <item>
       <title>Advancing Computational Grounded Theory</title>
+      <link>/project/pse/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pse/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Advancing Computational Grounded Theory for Audiovisual Data from STEM Classrooms&lt;/a&gt; is a three-year collaborative project among faculty at the University of Tennessee, Knoxville; Middle Tennessee State University (MTSU); and the University of Illinois, Urbana-Champaign (UIUC). The project is led by Christina Krist, UIUC assistant professor of curriculum and instruction. This project is focused on developing a new research methodology that uniquely combines two approaches: interpretative human-driven coding and newer machine learning techniques, also known as artificial intelligence. The aim is to use audio-visual data from STEM classrooms to study the kinds of teaching and learning of most interest to educational researchers rather than simply what can be studied using machine learning.The $1.3 million dollar grant will support a postdoctoral scholar at MTSU and graduate research assistants at UIUC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advancing Computational Grounded Theory</title>
       <link>/project/tca2/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/tca2/</guid>
@@ -34,6 +43,15 @@ funded through the &lt;a href=&#34;https://research.utk.edu/2019-research-seed-p
     </item>
     
     <item>
+      <title>Data Science in Education Using R</title>
+      <link>/project/data-sci-in-edu-using-r/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/data-sci-in-edu-using-r/</guid>
+      <description>&lt;p&gt;&amp;lsquo;Data Science in Education Using R&amp;rsquo; by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020. The book is being written in the open through GitHub: &lt;a href=&#34;https://github.com/data-edu/data-science-in-education&#34; target=&#34;_blank&#34;&gt;https://github.com/data-edu/data-science-in-education&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Policy and networks on Twitter</title>
       <link>/project/twitter/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
@@ -45,26 +63,33 @@ state-based Twitter hashtags (see &lt;a href=&#34;http://dx.doi.org/10.1177/2042
 
 &lt;p&gt;A second concerns how the use of the #NGSSchat hashtag may have implications for
 how the new science standards are taken up and implemented across the United States (see &lt;a href=&#34;https://osf.io/uwza6/&#34; target=&#34;_blank&#34;&gt;Rosenberg et al., 2019&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;A related project with &lt;a href=&#34;http://www.education.udel.edu/faculty-bio/teomara-rutherford/&#34; target=&#34;_blank&#34;&gt;Teya Rutherford&lt;/a&gt; aims to understand how individuals&amp;rsquo; gender relates to how they interact with others (and are interacted with) as well as how individuals experience being gendered on Twitter.&lt;/p&gt;
+
+&lt;p&gt;A collaboration led by &lt;a href=&#34;https://rossier.usc.edu/faculty-and-research/directories/a-z/profile/?id=221&#34; target=&#34;_blank&#34;&gt;Stephen Aguilar&lt;/a&gt; explores how beginning mathematics teachers use Twitter (and other social media platforms) to seek out resources.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Using R with 7th-grade science students</title>
+      <title>Profiles of science engagement</title>
       <link>/project/ms-data-sci/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/ms-data-sci/</guid>
-      <description>&lt;p&gt;This projects involves a collaboration with Mr. Alex Edwards at Tate&amp;rsquo;s School
-and Bodong Chen at the University of Minnesota.&lt;/p&gt;
+      <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Profiles of Science Engagement: Broadening Participation by Understanding Individual and Contextual Influences&lt;/a&gt;&amp;rdquo; is an NSF-funded project&lt;/p&gt;
 
-&lt;p&gt;A blog post detailing some recent work is available here: &lt;a href=&#34;https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/&#34; target=&#34;_blank&#34;&gt;https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This project will use a person-oriented analytic approach to examine individual differences and contextual variation in students&amp;rsquo; engagement in different science learning environments, and to link engagement patterns to students&amp;rsquo; achievement and persistence in STEM fields. Rich multi-method data sets will be used to develop profiles of student engagement involving adolescents&amp;rsquo; cognitive, affective, and behavioral states during the science learning process. These data will be instrumental in focusing, guiding, and communicating research efforts to practice. In addition to the knowledge generated and disseminated through traditional academic outlets, the project will develop two tangible products. The first product will be a free and publicly available statistical software library, or package, of tools and functions needed to conduct person-oriented analysis in R, the open-source programming language and software. These tools will be available for researchers, scholars, and developers. The second product will be a user-friendly guide that will inform science educators about engagement profiles and practices that engage students, including those from underrepresented groups in science, in the most meaningful ways. The guide to student engagement will help educators identify and respond to student engagement around science content, and to design lesson plans that may support greater engagement. The guide will be used for purposes of professional development and teacher preparation, impacting STEM scholars and educators, and training graduate students and post-doctoral fellow as they take part in research activities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rosenberg led to development of the &lt;a href=&#34;https://github.com/data-edu/tidyLPA&#34; target=&#34;_blank&#34;&gt;tidyLPA software&lt;/a&gt; used for this project and is a consultant for this project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>#tidytuesday Analysis</title>
-      <link>/project/internal-project/</link>
+      <link>/project/tidytuesday/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>/project/tidytuesday/</guid>
       <description>&lt;p&gt;An ongoing project is an analysis of [#tidytuesday[(&lt;a href=&#34;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&#34; target=&#34;_blank&#34;&gt;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;A repository with material for this project is here: &lt;a href=&#34;https://github.com/acircleda/TidyTuesday-Analysis&#34; target=&#34;_blank&#34;&gt;https://github.com/acircleda/TidyTuesday-Analysis&lt;/a&gt;&lt;/p&gt;
@@ -73,9 +98,9 @@ and Bodong Chen at the University of Minnesota.&lt;/p&gt;
     
     <item>
       <title>PICSUL</title>
-      <link>/project/external-project/</link>
+      <link>/project/picsul/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>/project/picsul/</guid>
       <description></description>
     </item>
     

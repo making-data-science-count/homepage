@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>/project/pse/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/tca2/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -103,17 +108,22 @@
   </url>
   
   <url>
+    <loc>/project/data-sci-in-edu-using-r/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/twitter/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/project/ms-data-sci/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/ms-data-sci/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,12 +138,12 @@
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>/project/tidytuesday/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>/project/picsul/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
