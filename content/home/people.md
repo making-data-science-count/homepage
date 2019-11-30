@@ -19,5 +19,3 @@ show_social = false
 # Show user's interests? (true/false)
 show_interests = true
 +++
-
-If you are a student (or a prospective student) interested in joining the Making Data Science Count research group, then please send a message to (Joshua Rosenberg)[mailto:jmrosenberg@utk.edu].
