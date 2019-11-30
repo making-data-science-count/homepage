@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
+      <title>Computer Science Education</title>
+      <link>/tags/computer-science-education/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/computer-science-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science Education</title>
       <link>/tags/data-science-education/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/tags/data-science-education/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Science Education</title>
-      <link>/tags/science-education/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/science-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Science Education</title>
-      <link>/tags/computer-science-education/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/computer-science-education/</guid>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
