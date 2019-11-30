@@ -7,7 +7,6 @@ email: "alishins@utk.edu"
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-  url: ""
 role: Postdoctoral Scholar, Computer Science Education
 superuser: false
 user_groups:

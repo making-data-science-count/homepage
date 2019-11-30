@@ -6,7 +6,6 @@ email: "aschmi11@vols.utk.edu"
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-  url: ""
 role: "Ph.D. Student, Evaluation, Statistics, and Measurement Ph.D. program"
 superuser: false
 user_groups:
