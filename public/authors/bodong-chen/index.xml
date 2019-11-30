@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Making Data Science Count</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Bodong Chen | Making Data Science Count</title>
+    <link>/authors/bodong-chen/</link>
+      <atom:link href="/authors/bodong-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bodong Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Bodong Chen</title>
+      <link>/authors/bodong-chen/</link>
     </image>
     
     <item>

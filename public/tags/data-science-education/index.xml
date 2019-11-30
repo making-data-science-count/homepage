@@ -5,12 +5,20 @@
     <link>/tags/data-science-education/</link>
       <atom:link href="/tags/data-science-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science Education</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Data Science Education</title>
       <link>/tags/data-science-education/</link>
     </image>
+    
+    <item>
+      <title>Tools and strategies for engaging students in analyzing and interpreting complex data sources</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>#tidytuesday Analysis</title>
