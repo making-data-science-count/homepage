@@ -19,7 +19,7 @@ height = ""
 [[item]]
   title = ""
   content = "Welcome to Making Data Science Count, a research group at the [University of Tennessee, Knoxville](http://utk.edu/)"
-  align = "Center"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "mdsc-logo.png"  # Image path relative to your `static/img/` folder.

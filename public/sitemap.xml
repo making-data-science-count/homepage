@@ -123,6 +123,10 @@
   </url>
   
   <url>
+    <loc>/authors/schmidt/</loc>
+  </url>
+  
+  <url>
     <loc>/home/</loc>
     <priority>0</priority>
   </url>
