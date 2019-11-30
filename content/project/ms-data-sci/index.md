@@ -1,6 +1,6 @@
 ---
 date: "2019-04-27T00:00:00Z"
-summary: 'Middle School Data Science in Science Education Courses'
+summary: 'Doing data science in 7th-grade science classrooms'
 tags:
 - Data Science Education
 - Science Education
