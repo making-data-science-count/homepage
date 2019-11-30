@@ -18,7 +18,7 @@ publication: '*The Science Teacher* (12)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2019-11-01T00:00:00Z"
 summary: 'An article for practicing science teachers on tools and stragegies for involving students in data analysis.'
 tags:
 - Data Science Education
