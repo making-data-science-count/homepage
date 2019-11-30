@@ -10,9 +10,9 @@ abstract: 'Analyzing and interpreting data is essential to the practice of scien
   We show how these strategies can be employed using the freely-available, browser-based tools.'
 authors:
 - admin
-date: "2019-12-01T00:00:00Z"
+date: "2019-11-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 projects: []
 publication: '*The Science Teacher* (12)'
 publication_short: ""
