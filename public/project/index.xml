@@ -14,15 +14,6 @@
     
     <item>
       <title>Advancing Computational Grounded Theory</title>
-      <link>/project/pse/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/pse/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Advancing Computational Grounded Theory for Audiovisual Data from STEM Classrooms&lt;/a&gt; is a three-year collaborative project among faculty at the University of Tennessee, Knoxville; Middle Tennessee State University (MTSU); and the University of Illinois, Urbana-Champaign (UIUC). The project is led by Christina Krist, UIUC assistant professor of curriculum and instruction. This project is focused on developing a new research methodology that uniquely combines two approaches: interpretative human-driven coding and newer machine learning techniques, also known as artificial intelligence. The aim is to use audio-visual data from STEM classrooms to study the kinds of teaching and learning of most interest to educational researchers rather than simply what can be studied using machine learning.The $1.3 million dollar grant will support a postdoctoral scholar at MTSU and graduate research assistants at UIUC.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advancing Computational Grounded Theory</title>
       <link>/project/tca2/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/tca2/</guid>
@@ -72,9 +63,9 @@ how the new science standards are taken up and implemented across the United Sta
     
     <item>
       <title>Profiles of science engagement</title>
-      <link>/project/ms-data-sci/</link>
+      <link>/project/pse/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/ms-data-sci/</guid>
+      <guid>/project/pse/</guid>
       <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=1661064&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Profiles of Science Engagement: Broadening Participation by Understanding Individual and Contextual Influences&lt;/a&gt;&amp;rdquo; is an NSF-funded project&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -82,6 +73,15 @@ how the new science standards are taken up and implemented across the United Sta
 &lt;/blockquote&gt;
 
 &lt;p&gt;Rosenberg led to development of the &lt;a href=&#34;https://github.com/data-edu/tidyLPA&#34; target=&#34;_blank&#34;&gt;tidyLPA software&lt;/a&gt; used for this project and is a consultant for this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using R with 7th-grade science students</title>
+      <link>/project/ms-data-sci/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ms-data-sci/</guid>
+      <description>&lt;p&gt;Sparked by a collaboration with Bodong Chen, this is a project with Alex Edwards, a 7th-grade science teacherat Tate&amp;rsquo;s School We recently wrote about some of the take-aways from our work last year in a publication on “Tools and strategies for engaging students in analyzing and interpreting complex data sources.” The article is going to be published in NSTA’s The Science Teacher journal (a pre-print of the article is [here]&lt;a href=&#34;https://www.makingdatasciencecount.com/publication/2019-tst/&#34; target=&#34;_blank&#34;&gt;https://www.makingdatasciencecount.com/publication/2019-tst/&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     

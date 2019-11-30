@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Making Data Science Count</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>media | Making Data Science Count</title>
+    <link>/categories/media/</link>
+      <atom:link href="/categories/media/index.xml" rel="self" type="application/rss+xml" />
+    <description>media</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>media</title>
+      <link>/categories/media/</link>
     </image>
     
     <item>
@@ -21,16 +21,6 @@
 &lt;a href=&#34;https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is related to &lt;a href=&#34;https://www.makingdatasciencecount.com/project/ms-data-sci/&#34; target=&#34;_blank&#34;&gt;this project&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Making Data Science Count</title>
-      <link>/post/welcome-to-making-data-science-count/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/welcome-to-making-data-science-count/</guid>
-      <description>&lt;p&gt;Welcome to Making Data Science Count! We will use this website to share news
-and updates as well as links to resources such as presentations and publications.&lt;/p&gt;
 </description>
     </item>
     

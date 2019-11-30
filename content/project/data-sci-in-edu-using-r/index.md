@@ -1,6 +1,6 @@
 ---
 date: "2019-04-27T00:00:00Z"
-summary: 'A first-of-its-kind book about data science in education using R'
+summary: 'A book about data science in education using R'
 tags:
 - Data Science Education
 title: 'Data Science in Education Using R'

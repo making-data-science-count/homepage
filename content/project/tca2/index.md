@@ -3,7 +3,6 @@ date: "2019-04-27T00:00:00Z"
 summary: 'Advancing computational grounded theory for audiovisual data from STEM classrooms'
 tags:
 - Data Science Education
-- Computer Science Education
 title: 'Advancing Computational Grounded Theory'
 ---
 
