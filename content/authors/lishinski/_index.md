@@ -2,7 +2,7 @@
 authors:
 - alishinski
 name: Alex Lishinski
-bio: Postdoctoral Scholar, Computer Science Education
+bio: 'Postdoctoral Scholar, Computer Science Education'
 email: "alishins@utk.edu"
 organizations:
 - name: University of Tennessee, Knoxville
@@ -11,3 +11,4 @@ superuser: false
 user_groups:
 - 'Research Group Members'
 ---
+
