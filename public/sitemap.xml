@@ -34,12 +34,12 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-11-30T12:42:01-05:00</lastmod>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/data-science-education/</loc>
-    <lastmod>2019-11-30T12:42:01-05:00</lastmod>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
   </url>
   
   <url>
@@ -49,12 +49,12 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-11-30T12:42:01-05:00</lastmod>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-11-30T12:42:01-05:00</lastmod>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
   </url>
   
   <url>
@@ -114,7 +114,7 @@
   
   <url>
     <loc>/tags/science-education/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
   </url>
   
   <url>
@@ -128,12 +128,32 @@
   </url>
   
   <url>
-    <loc>/project/tca2/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <loc>/post/beginning-three-nsf-funded-projects/</loc>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/computer-science-education/</loc>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/grants/</loc>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nsf/</loc>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-12-05T07:24:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/tca2/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
