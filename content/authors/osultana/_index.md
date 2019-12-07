@@ -11,4 +11,4 @@ user_groups:
 - 'Research Group Members'
 ---
 
-MOmiya is beginning as a Ph.D. student in the Department of Theory and Practice in Teacher Education in Spring 2020.
+Omiya is beginning as a Ph.D. student in the Department of Theory and Practice in Teacher Education in Spring 2020.
