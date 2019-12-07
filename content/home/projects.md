@@ -22,14 +22,14 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Science Education"
-    tag = "Science Education"
-
-  [[content.filter_button]]
     name = "Data Science Education"
     tag = "Data Science Education"
     
-    [[content.filter_button]]
+  [[content.filter_button]]
+    name = "Science Education"
+    tag = "Science Education"
+    
+  [[content.filter_button]]
     name = "Computer Science Education"
     tag = "Computer Science Education"
 

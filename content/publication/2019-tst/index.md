@@ -10,6 +10,8 @@ abstract: 'Analyzing and interpreting data is essential to the practice of scien
   We show how these strategies can be employed using the freely-available, browser-based tools.'
 authors:
 - admin
+- Alex Edwards
+- Bodong Chen
 date: "2019-11-01T00:00:00Z"
 doi: ""
 featured: true

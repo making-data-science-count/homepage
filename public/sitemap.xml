@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>/post/welcome-to-making-data-science-count/</loc>
-    <lastmod>2019-11-30T08:47:35-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -78,7 +73,17 @@
   </url>
   
   <url>
+    <loc>/authors/alex-edwards/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bodong-chen/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
