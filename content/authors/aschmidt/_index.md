@@ -23,5 +23,5 @@ Anthony Schmidt is a PhD student in evaluation, statistics, and measurement (ESM
 <br>
 <br>
 <br>
-<img src="/img/aschmidt.jpg" style = "transform: rotate(270deg)"/>
+<img src="/img/aschmidt.jpg" style = "transform: rotate(270deg); max-width:65%"/>
 

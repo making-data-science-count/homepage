@@ -5,12 +5,29 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Presentations at the TN STEM Education Research Conference</title>
+      <link>/post/presentations-at-the-tn-stem-education-research-conference/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/presentations-at-the-tn-stem-education-research-conference/</guid>
+      <description>&lt;p&gt;The Making Data Science Count research group has two presentations at the upcoming &lt;a href=&#34;https://www.tntech.edu/education/stem/tennessee-stem-education-research-conference.php&#34; target=&#34;_blank&#34;&gt;TN STEM Education Research Conference&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Rosenberg, J. M.,&amp;amp; Lishinski, A. (January, 2020). &lt;em&gt;Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science&lt;/em&gt;. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.&lt;/p&gt;
+
+&lt;p&gt;Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinsli, A., Rich, K., Longnecker, J., Mann. M., &amp;amp; Sadovnik, A. (January, 2020). &lt;em&gt;A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee&lt;/em&gt;. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This post will be updated with links to the posters as we near the conference.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using R with 7th-grade science students (highlighted in Flowing Data!)</title>
