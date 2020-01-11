@@ -3,12 +3,15 @@ authors:
 - aschmidt
 name: Anthony Schmidt
 bio: "PhD student in evaluation, statistics, and measurement (ESM), part of the Educational Psychology and Counseling Department."
-email: "aschmi11@vols.utk.edu"
+email: "aschmi11@utk.edu"
 interests:
 organizations:
 - name: University of Tennessee, Knoxville
-role: 'Ph.D. Student, Evaluation, Statistics, and Measurement Ph.D. program'
+role: 'Ph.D. Student, Evaluation, Statistics, and Measurement'
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AnthonyTeacher
 - icon: github
   icon_pack: fab
   link: https://github.com/acircleda
