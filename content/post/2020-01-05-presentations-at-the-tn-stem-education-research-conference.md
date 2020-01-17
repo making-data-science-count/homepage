@@ -26,4 +26,3 @@ The Making Data Science Count research group has two presentations at the upcomi
 > Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinsli, A., Rich, K., Longnecker, J., Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee*. Presentation at the 14th Annual Tennessee STEM Education Research Conference. Cookeville, TN. 
 
 [View the presentation slides here](https://docs.google.com/presentation/d/1A_DEyNaAjz5d2lbSdlwZ6unEAz96S7vtc4nNxnzjWMo/edit?usp=sharing)
-This post will be updated with links to the posters as we near the conference.
