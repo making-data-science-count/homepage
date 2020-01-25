@@ -17,10 +17,9 @@
       <link>/post/using-r-with-7th-grade-science-students-highlighted-in-flowing-data/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/post/using-r-with-7th-grade-science-students-highlighted-in-flowing-data/</guid>
-      <description>&lt;p&gt;A blog post on [Using R With 7th-Grade Science Students[(&lt;a href=&#34;https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)&#34; target=&#34;_blank&#34;&gt;https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)&lt;/a&gt;] was recently highlighted in the widely-read data visualization blog Flowing Data. A link to the post is
-&lt;a href=&#34;https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is related to &lt;a href=&#34;https://www.makingdatasciencecount.com/project/ms-data-sci/&#34; target=&#34;_blank&#34;&gt;this project&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;A blog post on [Using R With 7th-Grade Science Students[(https://joshuamrosenberg.com/post/2019/11/13/using-r-with-7th-grade-science-students/)] was recently highlighted in the widely-read data visualization blog Flowing Data. A link to the post is
+&lt;a href=&#34;https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is related to &lt;a href=&#34;https://www.makingdatasciencecount.com/project/ms-data-sci/&#34;&gt;this project&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,15 +46,16 @@
       <guid>/post/beginning-three-nsf-funded-projects/</guid>
       <description>&lt;p&gt;Joshua Rosenberg will be beginning three NSF-funded projects this fall. They are
 described in this post for the University of Tennessee, Knoxville, Department of
-Theory and Practice in Teacher Education &lt;a href=&#34;https://tpte.utk.edu/2019/10/22/rosenberg-awarded-national-science-foundation-grants-to-further-computer-science-education/&#34; target=&#34;_blank&#34;&gt;newsletter&lt;/a&gt;. Here are the descriptions of the projects from the
+Theory and Practice in Teacher Education &lt;a href=&#34;https://tpte.utk.edu/2019/10/22/rosenberg-awarded-national-science-foundation-grants-to-further-computer-science-education/&#34;&gt;newsletter&lt;/a&gt;. Here are the descriptions of the projects from the
 newsletter:&lt;/p&gt;
-
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Understanding the Development of Interest in Computer Science: An Experience Sampling Approach&lt;/a&gt; is a two-year project that builds on Rosenberg’s dissertation research about how students develop an interest in computer science. Rosenberg’s dissertation research utilized an experience sampling method in which study participants were surveyed with short questions delivered via cell phones at regular intervals throughout the course of their learning during out-of-school summer STEM programs.  This project uses a similar methodological approach in an undergraduate context. The $350,000 grant will support a postdoctoral scholar and a graduate research assistant.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;CS for Appalachia: A Research-Practice Partnership for Integrating Computer Science into East Tennessee Schools&lt;/a&gt; is a two-year project led by Lynn Hodge, STEM education professor. The project is focused on developing a research-practice partnership among researchers, teachers and administrators to address challenges related to teaching computer science at the elementary level. Building upon the shared vision developed within the research-practice partnership, the $250,000 grant includes opportunities for K-5 teachers to engage in professional development about the Tennessee computer science standards.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Advancing Computational Grounded Theory for Audiovisual Data from STEM Classrooms&lt;/a&gt; is a three-year collaborative project among faculty at the University of Tennessee, Knoxville; Middle Tennessee State University (MTSU); and the University of Illinois, Urbana-Champaign (UIUC). The project is led by Christina Krist, UIUC assistant professor of curriculum and instruction. This project is focused on developing a new research methodology that uniquely combines two approaches: interpretative human-driven coding and newer machine learning techniques, also known as artificial intelligence. The aim is to use audio-visual data from STEM classrooms to study the kinds of teaching and learning of most interest to educational researchers rather than simply what can be studied using machine learning.The $1.3 million dollar grant will support a postdoctoral scholar at MTSU and graduate research assistants at UIUC.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&amp;amp;HistoricalAwards=false&#34;&gt;Understanding the Development of Interest in Computer Science: An Experience Sampling Approach&lt;/a&gt; is a two-year project that builds on Rosenberg’s dissertation research about how students develop an interest in computer science. Rosenberg’s dissertation research utilized an experience sampling method in which study participants were surveyed with short questions delivered via cell phones at regular intervals throughout the course of their learning during out-of-school summer STEM programs.  This project uses a similar methodological approach in an undergraduate context. The $350,000 grant will support a postdoctoral scholar and a graduate research assistant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923509&amp;amp;HistoricalAwards=false&#34;&gt;CS for Appalachia: A Research-Practice Partnership for Integrating Computer Science into East Tennessee Schools&lt;/a&gt; is a two-year project led by Lynn Hodge, STEM education professor. The project is focused on developing a research-practice partnership among researchers, teachers and administrators to address challenges related to teaching computer science at the elementary level. Building upon the shared vision developed within the research-practice partnership, the $250,000 grant includes opportunities for K-5 teachers to engage in professional development about the Tennessee computer science standards.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&amp;amp;HistoricalAwards=false&#34;&gt;Advancing Computational Grounded Theory for Audiovisual Data from STEM Classrooms&lt;/a&gt; is a three-year collaborative project among faculty at the University of Tennessee, Knoxville; Middle Tennessee State University (MTSU); and the University of Illinois, Urbana-Champaign (UIUC). The project is led by Christina Krist, UIUC assistant professor of curriculum and instruction. This project is focused on developing a new research methodology that uniquely combines two approaches: interpretative human-driven coding and newer machine learning techniques, also known as artificial intelligence. The aim is to use audio-visual data from STEM classrooms to study the kinds of teaching and learning of most interest to educational researchers rather than simply what can be studied using machine learning.The $1.3 million dollar grant will support a postdoctoral scholar at MTSU and graduate research assistants at UIUC.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -65,7 +65,7 @@ newsletter:&lt;/p&gt;
       <link>/project/tca2/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/tca2/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34;&gt;Advancing Computational Grounded Theory for Audiovisual Data from STEM Classrooms&lt;/a&gt; is a three-year collaborative project among faculty at the University of Tennessee, Knoxville; Middle Tennessee State University (MTSU); and the University of Illinois, Urbana-Champaign (UIUC). The project is led by Christina Krist, UIUC assistant professor of curriculum and instruction. This project is focused on developing a new research methodology that uniquely combines two approaches: interpretative human-driven coding and newer machine learning techniques, also known as artificial intelligence. The aim is to use audio-visual data from STEM classrooms to study the kinds of teaching and learning of most interest to educational researchers rather than simply what can be studied using machine learning.The $1.3 million dollar grant will support a postdoctoral scholar at MTSU and graduate research assistants at UIUC.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920796&amp;amp;HistoricalAwards=false&#34;&gt;Advancing Computational Grounded Theory for Audiovisual Data from STEM Classrooms&lt;/a&gt; is a three-year collaborative project among faculty at the University of Tennessee, Knoxville; Middle Tennessee State University (MTSU); and the University of Illinois, Urbana-Champaign (UIUC). The project is led by Christina Krist, UIUC assistant professor of curriculum and instruction. This project is focused on developing a new research methodology that uniquely combines two approaches: interpretative human-driven coding and newer machine learning techniques, also known as artificial intelligence. The aim is to use audio-visual data from STEM classrooms to study the kinds of teaching and learning of most interest to educational researchers rather than simply what can be studied using machine learning.The $1.3 million dollar grant will support a postdoctoral scholar at MTSU and graduate research assistants at UIUC.&lt;/p&gt;
 </description>
     </item>
     
@@ -74,7 +74,7 @@ newsletter:&lt;/p&gt;
       <link>/project/data-sci-in-edu-using-r/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/data-sci-in-edu-using-r/</guid>
-      <description>&lt;p&gt;&amp;lsquo;Data Science in Education Using R&amp;rsquo; by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020. The book is being written in the open through GitHub: &lt;a href=&#34;https://github.com/data-edu/data-science-in-education&#34; target=&#34;_blank&#34;&gt;https://github.com/data-edu/data-science-in-education&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&amp;lsquo;Data Science in Education Using R&amp;rsquo; by Emily A. Bovee, Ryan A. Estrellado, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez to be published by Routledge in 2020. The book is being written in the open through GitHub: &lt;a href=&#34;https://github.com/data-edu/data-science-in-education&#34;&gt;https://github.com/data-edu/data-science-in-education&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -84,16 +84,12 @@ newsletter:&lt;/p&gt;
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/twitter/</guid>
       <description>&lt;p&gt;This work is centered around two ongoing projects.&lt;/p&gt;
-
-&lt;p&gt;One is supported by Visiting Faculty Travel Grant Program funding from the Southeastern Conference to collaborate with &lt;a href=&#34;https://www.anneliserussell.me/&#34; target=&#34;_blank&#34;&gt;Annelise Russell&lt;/a&gt; and Spencer Greenhalgh at the University of Kentucky around how the broader policy environment may impact
-state-based Twitter hashtags (see &lt;a href=&#34;http://dx.doi.org/10.1177/2042753016672351&#34; target=&#34;_blank&#34;&gt;Rosenberg et al., 2016&lt;/a&gt;).&lt;/p&gt;
-
+&lt;p&gt;One is supported by Visiting Faculty Travel Grant Program funding from the Southeastern Conference to collaborate with &lt;a href=&#34;https://www.anneliserussell.me/&#34;&gt;Annelise Russell&lt;/a&gt; and Spencer Greenhalgh at the University of Kentucky around how the broader policy environment may impact
+state-based Twitter hashtags (see &lt;a href=&#34;http://dx.doi.org/10.1177/2042753016672351&#34;&gt;Rosenberg et al., 2016&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;A second concerns how the use of the #NGSSchat hashtag may have implications for
-how the new science standards are taken up and implemented across the United States (see &lt;a href=&#34;https://osf.io/uwza6/&#34; target=&#34;_blank&#34;&gt;Rosenberg et al., 2019&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;A related project with &lt;a href=&#34;http://www.education.udel.edu/faculty-bio/teomara-rutherford/&#34; target=&#34;_blank&#34;&gt;Teya Rutherford&lt;/a&gt; aims to understand how individuals&amp;rsquo; gender relates to how they interact with others (and are interacted with) as well as how individuals experience being gendered on Twitter.&lt;/p&gt;
-
-&lt;p&gt;A collaboration led by &lt;a href=&#34;https://rossier.usc.edu/faculty-and-research/directories/a-z/profile/?id=221&#34; target=&#34;_blank&#34;&gt;Stephen Aguilar&lt;/a&gt; explores how beginning mathematics teachers use Twitter (and other social media platforms) to seek out resources.&lt;/p&gt;
+how the new science standards are taken up and implemented across the United States (see &lt;a href=&#34;https://osf.io/uwza6/&#34;&gt;Rosenberg et al., 2019&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;A related project with &lt;a href=&#34;http://www.education.udel.edu/faculty-bio/teomara-rutherford/&#34;&gt;Teya Rutherford&lt;/a&gt; aims to understand how individuals&amp;rsquo; gender relates to how they interact with others (and are interacted with) as well as how individuals experience being gendered on Twitter.&lt;/p&gt;
+&lt;p&gt;A collaboration led by &lt;a href=&#34;https://rossier.usc.edu/faculty-and-research/directories/a-z/profile/?id=221&#34;&gt;Stephen Aguilar&lt;/a&gt; explores how beginning mathematics teachers use Twitter (and other social media platforms) to seek out resources.&lt;/p&gt;
 </description>
     </item>
     
@@ -102,7 +98,7 @@ how the new science standards are taken up and implemented across the United Sta
       <link>/project/ms-data-sci/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/ms-data-sci/</guid>
-      <description>&lt;p&gt;Sparked by a collaboration with Bodong Chen, this is a project with Alex Edwards, a 7th-grade science teacherat Tate&amp;rsquo;s School We recently wrote about some of the take-aways from our work last year in a publication on “Tools and strategies for engaging students in analyzing and interpreting complex data sources.” The article is going to be published in NSTA’s The Science Teacher journal (a pre-print of the article is [here]&lt;a href=&#34;https://www.makingdatasciencecount.com/publication/2019-tst/&#34; target=&#34;_blank&#34;&gt;https://www.makingdatasciencecount.com/publication/2019-tst/&lt;/a&gt;).&lt;/p&gt;
+      <description>&lt;p&gt;Sparked by a collaboration with Bodong Chen, this is a project with Alex Edwards, a 7th-grade science teacherat Tate&amp;rsquo;s School We recently wrote about some of the take-aways from our work last year in a publication on “Tools and strategies for engaging students in analyzing and interpreting complex data sources.” The article is going to be published in NSTA’s The Science Teacher journal (a pre-print of the article is [here]https://www.makingdatasciencecount.com/publication/2019-tst/).&lt;/p&gt;
 </description>
     </item>
     
@@ -111,9 +107,8 @@ how the new science standards are taken up and implemented across the United Sta
       <link>/project/tidytuesday/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/tidytuesday/</guid>
-      <description>&lt;p&gt;An ongoing project is an analysis of [#tidytuesday[(&lt;a href=&#34;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&#34; target=&#34;_blank&#34;&gt;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;A repository with material for this project is here: &lt;a href=&#34;https://github.com/acircleda/TidyTuesday-Analysis&#34; target=&#34;_blank&#34;&gt;https://github.com/acircleda/TidyTuesday-Analysis&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;An ongoing project is an analysis of [#tidytuesday[(https://nsgrantham.shinyapps.io/tidytuesdayrocks/).&lt;/p&gt;
+&lt;p&gt;A repository with material for this project is here: &lt;a href=&#34;https://github.com/acircleda/TidyTuesday-Analysis&#34;&gt;https://github.com/acircleda/TidyTuesday-Analysis&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Making Data Science Count</title>
-    <link>/authors/jlongnecker/</link>
-      <atom:link href="/authors/jlongnecker/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/nkenner/</link>
+      <atom:link href="/authors/nkenner/index.xml" rel="self" type="application/rss+xml" />
     <description>Making Data Science Count</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright>
   </channel>

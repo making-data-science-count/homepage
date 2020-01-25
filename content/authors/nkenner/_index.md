@@ -1,6 +1,6 @@
 ---
 authors:
-- aschmidt
+- nkenner
 name: Nathan Kenner
 bio: "MA Student, Theory and Practice in Teacher Education"
 email: "nkenner@vols.utk.edu"
