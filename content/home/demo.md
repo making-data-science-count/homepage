@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="img/mdsc-logo.png", style = "height: 67.5%; width: 67.5%; margin-left: auto; margin-right: auto;"/>
+<img src="img/mdsc-logo.png", style = "height: 57.5%; width: 57.5%; margin-left: auto; margin-right: auto;"/>
 
 <p style="text-align: center;"><em>Making Data Science Count</em> is an educational research group at the University of Tennessee, Knoxville</p>
 

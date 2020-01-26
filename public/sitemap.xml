@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -13,8 +18,36 @@
   </url>
   
   <url>
+    <loc>/authors/alishinski/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aschmidt/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jlongnecker/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/mmann/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/osultana/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/aedwards/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/nkenner/</loc>
   </url>
   
   <url>
@@ -65,11 +98,6 @@
   <url>
     <loc>/post/using-r-with-7th-grade-science-students-highlighted-in-flowing-data/</loc>
     <lastmod>2019-11-30T12:42:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -215,30 +243,6 @@
   <url>
     <loc>/project/picsul/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alishinski/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/aschmidt/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/jlongnecker/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/mmann/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/nkenner/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/osultana/</loc>
   </url>
   
   <url>

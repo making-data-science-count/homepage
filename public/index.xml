@@ -57,8 +57,12 @@
       <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/home/</guid>
-      <description>&lt;p&gt; +++&lt;/p&gt;
+      <description>
+
+&lt;p&gt; +++&lt;/p&gt;
+
 &lt;h1 id=&#34;homepage&#34;&gt;Homepage&lt;/h1&gt;
+
 &lt;p&gt;type = &amp;ldquo;widget_page&amp;rdquo;
 headless = true  # Homepage is headless, other widget pages are not.
 +++&lt;/p&gt;

@@ -36,6 +36,7 @@ social:
 superuser: true
 user_groups:
 - 'Research Group Members'
+weight: 1
 ---
 
 ## Biography
