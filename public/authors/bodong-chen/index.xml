@@ -6,6 +6,12 @@
       <atom:link href="/authors/bodong-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Bodong Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bodong Chen</title>
+      <link>/authors/bodong-chen/</link>
+    </image>
+    
     <item>
       <title>Tools and strategies for engaging students in analyzing and interpreting complex data sources</title>
       <link>/publication/2019-tst/</link>

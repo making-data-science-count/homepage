@@ -6,6 +6,12 @@
       <atom:link href="/authors/teya-rutherford/index.xml" rel="self" type="application/rss+xml" />
     <description>Teya Rutherford</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Teya Rutherford</title>
+      <link>/authors/teya-rutherford/</link>
+    </image>
+    
     <item>
       <title>Making data science “count”: Data science and learning, design, and technology research</title>
       <link>/publication/2020-mdsc/</link>
